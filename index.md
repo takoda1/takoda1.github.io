@@ -10,8 +10,8 @@ Bike - 2020 Trek Roscoe 7
 
 # Index
 - [Routes](#Routes)
-- [Skills](#Skills)
-- [Fitness](#Fitness)
+- [Skills](#Skill-goals)
+- [Fitness](#Fitness-goals)
 
 ## Routes
 
@@ -44,7 +44,7 @@ Consider renting an Air BnB for a day or two to ride everything.
 - Do most trails in Carolina North, take a snack and break at home, then bike to Brumley and do one large loops.
 https://www.trailforks.com/ridelog/planner/view/201587
 
-## Skills
+## Skill goals
 What to work on:
 - Bike body separation for flat turns [Video](https://www.youtube.com/watch?v=spbl1WvzlMY)
 - Looking through turns
@@ -58,7 +58,8 @@ Videos that helped learning some skills
 - Wheelie [Video](https://www.youtube.com/watch?v=3j6Y8vsQ3d4)
   - Particularly jumping off the back and repeated practice helps
 
-## Fitness
+## Fitness Goals
 What to work on
 - General fitness
 - Sweet spot training/interval training 2-3 times a week, and 2+ hour rides on the weekends
+- Sign up for an XC or enduro race
