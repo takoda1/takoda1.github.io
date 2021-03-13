@@ -1,37 +1,64 @@
-## Welcome to GitHub Pages
+# Mountain biking out of the Triangle region
 
-You can use the [editor on GitHub](https://github.com/takoda1/takoda1.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+A place for mountain biking routes that we either have done, or wish to do, as well as personal progression.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Bike - 2020 Trek Roscoe 7
+![IMG_3228](https://user-images.githubusercontent.com/31773273/111036989-17d29b00-83f0-11eb-899f-778c067be29c.jpg)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Index
+- [Routes](#Routes)
+- [Skills](#Skills)
+- [Fitness](#Fitness)
 
-- Bulleted
-- List
+## Routes
 
-1. Numbered
-2. List
+### W Kerr Scott Reservoir (Not visited yet)
+Consider renting an Air BnB for a day or two to ride everything.
 
-**Bold** and _Italic_ and `Code` text
+#### Warrior Creek
+- 7659 NC-268, Boomer, NC 28606
+- Possible route: https://www.trailforks.com/route/ovt-warrior-creek-headwaters/
+- ~14 miles
+- https://www.mtbproject.com/trail/786660/warrior-creek
 
-[Link](url) and ![Image](src)
-```
+#### Overmountain Trail
+- 499, Reservoir Rd, Wilkesboro, NC 28697
+- ~20 miles
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### Darkmountain area
+- 202 Ranger Rd, Wilkesboro, NC 28697
+- ~10 miles
 
-### Jekyll Themes
+### Trails to visit
+- Williamson
+- Legend
+- New light
+- San Lee bike park
+- Kanuga bike park - be careful there buckaroo, gravity is a recipe for disaster
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/takoda1/takoda1.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Carolina North + Brumley day
+~ 45 Miles with commute from house included.
+- Do most trails in Carolina North, take a snack and break at home, then bike to Brumley and do one large loops.
+https://www.trailforks.com/ridelog/planner/view/201587
 
-### Support or Contact
+## Skills
+What to work on:
+- Bike body separation for flat turns [Video](https://www.youtube.com/watch?v=spbl1WvzlMY)
+- Looking through turns
+- Manual [Video](https://www.youtube.com/watch?v=2YQrXfH-U38)
+- Default/drill in jumping off back for wheelie and manual
+  - Practice hundreds of times on grass until fully comfortable
+- Bunny hop [Video](https://www.youtube.com/watch?v=e-OkWl_1M4s)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Videos that helped learning some skills
+- Track stand [Video](https://www.youtube.com/watch?v=1tZsy_lIF34)
+- Wheelie [Video](https://www.youtube.com/watch?v=3j6Y8vsQ3d4)
+  - Particularly jumping off the back and repeated practice helps
+
+## Fitness
+What to work on
+- General fitness
+- Sweet spot training/interval training 2-3 times a week, and 2+ hour rides on the weekends
