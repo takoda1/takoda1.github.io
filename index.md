@@ -39,6 +39,7 @@ Consider renting an Air BnB for a day or two to ride everything.
 - San Lee bike park
 - Harris lake (Jump line there on the west side!)
 - Kanuga bike park - be careful there buckaroo, gravity is a recipe for disaster
+- Angler's ridge, Danville
 
 ### Carolina North + Brumley day
 ~ 45 Miles with commute from house included.
