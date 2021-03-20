@@ -40,6 +40,8 @@ Consider renting an Air BnB for a day or two to ride everything.
 - Harris lake (Jump line there on the west side!)
 - Kanuga bike park - be careful there buckaroo, gravity is a recipe for disaster
 - Angler's ridge, Danville
+- Brevard NC
+  - Dupont state forest, Laurel Mountain, Black Mountain
 
 ### Carolina North + Brumley day
 ~ 45 Miles with commute from house included.
