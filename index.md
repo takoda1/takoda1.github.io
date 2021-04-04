@@ -42,11 +42,17 @@ Consider renting an Air BnB for a day or two to ride everything.
 - Angler's ridge, Danville
 - Brevard NC
   - Dupont state forest, Laurel Mountain, Black Mountain
+- Lake Crabtree + the skills area
+- Spend a day at the skills area at Briar chapel.
 
 ### Carolina North + Brumley day
 ~ 45 Miles with commute from house included.
 - Do most trails in Carolina North, take a snack and break at home, then bike to Brumley and do one large loops.
 https://www.trailforks.com/ridelog/planner/view/201587
+
+### Trip to Dupont + Kanuga
+- Kanuga and Dupont are quite close to eachother (~20 minute drive between the two).
+- Get a place near hendersonville and bike at kanuga one day, dupont the other two.
 
 ## Skill goals
 What to work on:
